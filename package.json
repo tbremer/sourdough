@@ -1,7 +1,7 @@
 {
   "version": "0.0.4",
   "scripts": {
-    "build": "pandoc -s -f markdown -t html5 -o index.html README.md --css pandoc.css --metadata title=\"Sourdough Recipe\""
+    "build": "pandoc -s -f markdown -t html5 -o index.html README.md --css pandoc.css -V \"pagetitle:Sourdough Recipe\""
   },
   "husky": {
     "hooks": {

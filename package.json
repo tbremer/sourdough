@@ -1,5 +1,8 @@
 {
   "version": "0.0.1",
+  "scripts": {
+    "build": "pandoc -f markdown -t html5 -o index.html README.md --css pandoc.css"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -7,12 +10,16 @@
   },
   "lint-staged": {
     "*.{md}": [
-      "prettier --write"
+      "prettier --write",
+      "build"
     ]
   },
   "devDependencies": {
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5"
+  },
+  "dependencies": {
+    "marked": "^1.1.0"
   }
 }

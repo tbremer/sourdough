@@ -1,6 +1,6 @@
-[![Version](https://img.shields.io/github/package-json/v/tbremer/sourdough?style=flat-square&labelColor=%2316161d)](https://github.com/tbremer/sourdough)
-
 # How To Make Sourdough Bread
+
+[![Version](https://img.shields.io/github/package-json/v/tbremer/sourdough?style=flat-square&labelColor=%2316161d)](https://github.com/tbremer/sourdough)
 
 _[From The Kitchn](https://www.thekitchn.com/how-to-make-sourdough-bread-224367)_
 

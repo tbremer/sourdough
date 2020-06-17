@@ -1,4 +1,4 @@
-![Version]([https://img.shields.io/github/package-json/v/tbremer/sourdough?style=flat-square&labelColor=%2316161d)
+[![Version](https://img.shields.io/github/package-json/v/tbremer/sourdough?style=flat-square&labelColor=%2316161d)](https://github.com/tbremer/sourdough)
 
 # How To Make Sourdough Bread
 

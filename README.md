@@ -8,7 +8,7 @@ _[From The Kitchn](https://www.thekitchn.com/how-to-make-sourdough-bread-224367)
 - **PREP TIME:** 24 hours to 48 hours
 - **COOK TIME:** 45 minutes to 50 minutes
 
-## INGREDIENTS
+## Ingredients
 
 _For the leaven:_
 
@@ -22,7 +22,7 @@ _For the dough:_
 - 1 tablespoon salt
 - 700 grams all-purpose flour or bread flour
 
-## EQUIPMENT
+## Equipment
 
 - Mixing bowls
 - Plastic wrap or other covering for the bowls
@@ -32,7 +32,7 @@ _For the dough:_
 - Dutch ovens or large heavy-bottomed pots with lids
 - Lame, sharp knife, or serrated knife
 
-## INSTRUCTIONS
+## Instructions
 
 1. Make sure your sourdough culture is active. If your sourdough has been in the refrigerator, take it out 2 to 3 days before you plan to bake. Feed it daily to make sure it's strong and very active before you make the bread.
 1. Make the leaven and let it sit overnight. The night before you plan to make the dough, place all the leaven ingredients in a large bowl and mix thoroughly to form a thick batter. Cover and let stand at room temperature overnight, about 12 hours.
@@ -60,7 +60,7 @@ _For the dough:_
 1. Bake another 15 to 25 minutes. Continue baking uncovered until the crust is deeply browned; aim for just short of burnt. It might feel a bit unnatural to bake loaves this fully, but this is where a lot of the flavor and texture of the crust comes in.
 1. Cool the loaves completely. When done, lift the loaves out of the pots using a spatula. Transfer them to wire racks to cool completely. Wait until they have cooled to room temperature before slicing.
 
-## RECIPE NOTES
+## Notes
 
 Whole-wheat sourdough: You can replace up to half of the all-purpose flour with whole-wheat or whole-grain flour.
 

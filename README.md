@@ -1,6 +1,6 @@
 # How To Make Sourdough Bread
 
-[![Version](https://img.shields.io/badge/dynamic/json?prefix=vstyle=flat-square&labelColor=%2316161d&color=%23f06&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftbremer%2Fsourdough%2Fmain%2Fpackage.json)](https://github.com/tbremer/sourdough)
+[![Version](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=%2316161d&color=%23f06&label=version&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftbremer%2Fsourdough%2Fmain%2Fpackage.json)](https://github.com/tbremer/sourdough)
 
 _[From The Kitchn](https://www.thekitchn.com/how-to-make-sourdough-bread-224367)_
 

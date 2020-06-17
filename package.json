@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "scripts": {
-    "build": "pandoc -f markdown -t html5 -o index.html README.md --css pandoc.css"
+    "build": "pandoc -s -f markdown -t html5 -o index.html README.md --css pandoc.css"
   },
   "husky": {
     "hooks": {

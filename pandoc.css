@@ -187,6 +187,14 @@ ol {
     padding: 0 0 0 2em;
 }
 
+ol li {
+    margin-bottom: 1rem;
+}
+
+ol li:last-child {
+    margin-bottom: 0;
+}
+
 li p:last-child {
     margin-bottom: 0;
 }

@@ -1,24 +1,13 @@
 {
   "version": "0.0.7",
-  "scripts": {
-    "build": "pandoc -s -f markdown -t html5 -o index.html README.md --css pandoc.css -V \"pagetitle:Sourdough Recipe\""
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
+  "scripts": {},
   "lint-staged": {
     "*.{md}": [
       "prettier --write",
       "build"
     ]
   },
-  "devDependencies": {
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
-    "prettier": "^2.0.5"
-  },
+  "devDependencies": {},
   "dependencies": {
     "marked": "^1.1.0"
   }
